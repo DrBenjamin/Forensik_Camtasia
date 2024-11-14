@@ -3,7 +3,7 @@
   "description" : "",
   "author" : "",
   "width" : 1920.0,
-  "height" : 1014.0,
+  "height" : 1080.0,
   "version" : "0.5",
   "editRate" : 30,
   "authoringClientName" :  {
@@ -53,16 +53,6 @@
                       "ident" : "Pflege_Timeline_Pflegemaßnahmen_abarbeiten_JA"
                     },
                     "parameters" : {
-                      "scale0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.938888888888889,
-                        "interp" : "eioe"
-                      },
-                      "scale1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.938888888888889,
-                        "interp" : "eioe"
-                      },
                       "cursorScale" : {
                         "type" : "double",
                         "defaultValue" : 1.0,
@@ -126,7 +116,7 @@
     "captionAttributes" : {
       "enabled" : true,
       "fontName" : "Arial",
-      "fontSize" : 60,
+      "fontSize" : 64,
       "backgroundColor" : [ 0, 0, 0, 191],
       "foregroundColor" : [ 255, 255, 255, 255],
       "lang" : "en",
@@ -139,14 +129,14 @@
     "backgroundColor" : [ 0, 0, 0, 255]
   },
   "metadata" : {
-    "AutoSaveFile" : "C:\\Users\\080800032023\\AppData\\Local\\TechSmith\\Camtasia Studio\\9.0\\Auto-Saves\\Pflege_Timeline_Pflegemaßnahmen_abarbeiten_V1_JA1579dc35.autosave.tscproj",
+    "AutoSaveFile" : "C:\\Users\\080800032023\\AppData\\Local\\TechSmith\\Camtasia Studio\\9.0\\Auto-Saves\\Pflege_Timeline_Forensik_Test_V2_JA1ff50c34.autosave.tscproj",
     "CanvasZoom" : 56,
-    "Date" : "12.11.2024 10:03:39 ",
+    "Date" : "14.11.2024 10:57:06 ",
     "IsAutoSave" : "0",
     "Language" : "DEU",
     "ProfileName" : "",
     "ProjectDimensionsChanged" : "1",
-    "Title" : "Pflege_Timeline_Pflegemaßnahmen_abarbeiten_V1_JA",
+    "Title" : "Pflege_Timeline_Forensik_Test_V2_JA",
     "audioNarrationNotes" : "",
     "calloutStyle" : "Basic",
     "canvasDetached" : "False",
