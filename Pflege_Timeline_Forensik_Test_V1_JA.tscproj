@@ -14,19 +14,19 @@
   "sourceBin" : [
     {
       "id" : 1,
-      "src" : "C:\\Users\\080800032023\\OneDrive - CGM\\UKE_Videos\\1. Stationär\\20241014 - Neu\\Pflege\\In Camtasia-Bearbeitung\\Pflege_Timeline_Pflegemaßnahmen_abarbeiten_V1_JA.trec",
+      "src" : "C:\\Users\\080800032023\\OneDrive - CGM\\UKE_Videos\\1. Stationär\\20241014 - Neu\\Pflege\\In Camtasia-Bearbeitung\\Pflege_Timeline_Pflegemaßnahmen_abarbeiten_JA.trec",
       "rect" : [0, 0, 1920, 1080],
-      "lastMod" : "not-a-date-time",
+      "lastMod" : "20241113T083733",
       "sourceTracks" : [
         {
-          "range" : [0, 1164],
+          "range" : [0, 3267],
           "type" : 0,
           "editRate" : 30,
           "trackRect" : [0, 0, 1920, 1080],
-          "sampleRate" : 24,
+          "sampleRate" : 27,
           "bitDepth" : 0,
           "numChannels" : 0,
-          "metaData" : "Pflege_Timeline_Pflegemaßnahmen_abarbeiten_V1_JA.trec;"
+          "metaData" : "Pflege_Timeline_Pflegemaßnahmen_abarbeiten_JA.trec;"
         }
       ]
     }
@@ -36,7 +36,7 @@
     "sceneTrack" : {
       "scenes" : [
         {
-          "duration" : 38.8,
+          "duration" : 108.9,
           "title" : "",
           "type" : "",
           "csml" : {
@@ -50,7 +50,7 @@
                     "src" : 1,
                     "trackNumber" : 0,
                     "attributes" : {
-                      "ident" : "Pflege_Timeline_Pflegemaßnahmen_abarbeiten_V1_JA"
+                      "ident" : "Pflege_Timeline_Pflegemaßnahmen_abarbeiten_JA"
                     },
                     "parameters" : {
                       "scale0" : {
@@ -78,9 +78,9 @@
 
                     ],
                     "start" : 0,
-                    "duration" : 1164,
+                    "duration" : 3267,
                     "mediaStart" : 0,
-                    "mediaDuration" : 1164,
+                    "mediaDuration" : 3267,
                     "scalar" : 1,
                     "metadata" : {
                       "AutoAppliedSmartFocus" : "False",
@@ -140,7 +140,7 @@
   },
   "metadata" : {
     "AutoSaveFile" : "C:\\Users\\080800032023\\AppData\\Local\\TechSmith\\Camtasia Studio\\9.0\\Auto-Saves\\Pflege_Timeline_Pflegemaßnahmen_abarbeiten_V1_JA1579dc35.autosave.tscproj",
-    "CanvasZoom" : 61,
+    "CanvasZoom" : 56,
     "Date" : "12.11.2024 10:03:39 ",
     "IsAutoSave" : "0",
     "Language" : "DEU",
